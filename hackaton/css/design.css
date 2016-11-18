@@ -1,0 +1,34 @@
+#logo {
+  float:right;
+  padding:10px;
+  width:200px;
+}
+
+body {
+  border-top:15px solid #fd2da1;
+ 5px #003680;
+
+}
+
+#footer {
+  background-color:#F5F5F5;
+  bottom:0;
+  height:60px;
+  line-height:60px;
+  position:absolute;
+  width:100%;
+}
+
+.btn-login {
+
+  background-color:red;
+}
+h3  {
+  font-size: 25px;
+  height:20px;
+
+}
+h2 {
+  font-weight: bold;
+  font-size: 15px;
+}
